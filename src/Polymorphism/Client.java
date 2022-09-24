@@ -9,5 +9,6 @@ public class Client {
         myFish.breath();
         myFish.jump();
         myFish.swim();
+        System.out.println("Change");
     }
 }
