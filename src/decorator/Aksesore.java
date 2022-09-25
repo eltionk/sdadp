@@ -1,2 +1,5 @@
-package decorator;public class Aksesore {
+package decorator;
+
+public abstract class Aksesore implements Arme{
+    Arme arme;
 }

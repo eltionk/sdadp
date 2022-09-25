@@ -1,2 +1,5 @@
-package decorator;public interface Arme {
+package decorator;
+
+public interface Arme {
+    void shoot();
 }
